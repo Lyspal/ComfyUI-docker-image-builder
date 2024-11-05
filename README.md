@@ -1,4 +1,4 @@
-# ComfyUI-docker
+# ComfyUI-docker-image-builder
 
 A containerization of the official ComfyUI diffusion model GUI. Includes ComfyUI-Manager.
 
