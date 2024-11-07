@@ -16,6 +16,7 @@ Originally, an attempt to containerize ComfyUI for deployment on a homelab and i
 ## Known Issues
 
 - Some more directories and files should probably be ignored during build.
+- Permission issues with some scripts (e.g., ComfyUI-Manager) when running as non-root user in Docker.
 
 ## Disclaimer
 
